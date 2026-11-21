@@ -28,7 +28,7 @@
 - **Chiếu màn hình & điều khiển đa iPhone qua USB**: Tự động kết nối lại khi cắm cáp, hỗ trợ thao tác đồng bộ nhiều máy.
 - **Đa ngôn ngữ (11 ngôn ngữ)**: Tiếng Việt, English, 简体中文, 繁體中文, Español, 日本語, 한국어, ไทย, Indonesia, Melayu, Русский — đổi trực tiếp trên thanh tiêu đề, tự đồng bộ giao diện Sáng / Tối.
 - **Phiên bản Miễn phí & VIP**:
-  - **Miễn phí (Free)**: Hiển thị và điều khiển tối đa **2 iPhone kết nối đồng thời**.
+  - **Miễn phí (Free)**: Hiển thị và điều khiển tối đa **20 iPhone kết nối đồng thời**.
   - **VIP**: Không giới hạn số lượng iPhone kết nối + mở khóa công cụ **⚡ Dev Mode + Panda Helper**.
 - **Công cụ ⚡ Dev Mode + Panda Helper (VIP)**:
   - Kiểm tra nhanh trạng thái Developer Mode & Panda Helper trên toàn bộ iPhone đang cắm USB.
