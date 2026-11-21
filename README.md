@@ -8,9 +8,13 @@
 
 ## Tải về & Cài đặt / Download & Install
 
-👉 **Chọn định dạng tải về mới nhất (`v3.8.81`):**
-- **[Tải SangLink-v3.8.81.dmg (macOS Installer — Khuyên dùng)](https://github.com/ganhhcrjvn-beep/sanglink-macos/releases/download/v3.8.81/SangLink-v3.8.81.dmg)**
-- **[Tải SangLink.zip (Bản nén ZIP)](https://github.com/ganhhcrjvn-beep/sanglink-macos/releases/download/v3.8.81/SangLink.zip)**
+👉 **Chọn bản cài đặt mới nhất (`v3.8.81`):**
+- **macOS (Apple Silicon & Intel)**:
+  - **[Tải SangLink-v3.8.81.dmg (Installer — Khuyên dùng)](https://github.com/ganhhcrjvn-beep/sanglink-macos/releases/download/v3.8.81/SangLink-v3.8.81.dmg)**
+  - **[Tải SangLink.zip (Bản nén ZIP)](https://github.com/ganhhcrjvn-beep/sanglink-macos/releases/download/v3.8.81/SangLink.zip)**
+- **Windows 10 / 11 (64-bit)**:
+  - **[Tải SangLink-Setup-v3.8.81.exe (Bộ cài đặt — Khuyên dùng)](https://github.com/ganhhcrjvn-beep/sanglink-macos/releases/download/v3.8.81/SangLink-Setup-v3.8.81.exe)**
+  - **[Tải SangLink-Windows-v3.8.81.zip (Bản Portable giải nén chạy ngay)](https://github.com/ganhhcrjvn-beep/sanglink-macos/releases/download/v3.8.81/SangLink-Windows-v3.8.81.zip)**
 
 ### Hướng dẫn cài đặt trên macOS
 1. **Bản DMG (khuyên dùng)**: Mở file **`SangLink-v3.8.81.dmg`** rồi kéo **`SangLink.app`** thả vào thư mục **`Applications`**.
