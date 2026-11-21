@@ -8,13 +8,14 @@
 
 ## Tải về & Cài đặt / Download & Install
 
-👉 **Tải bản cài đặt mới nhất / Download latest release (`v3.8.81`):**
-- **[Tải SangLink.zip (macOS · 16 MB)](https://github.com/ganhhcrjvn-beep/sanglink-macos/releases/latest/download/SangLink.zip)**
+👉 **Chọn định dạng tải về mới nhất (`v3.8.81`):**
+- **[Tải SangLink-v3.8.81.dmg (macOS Installer — Khuyên dùng)](https://github.com/ganhhcrjvn-beep/sanglink-macos/releases/download/v3.8.81/SangLink-v3.8.81.dmg)**
+- **[Tải SangLink.zip (Bản nén ZIP)](https://github.com/ganhhcrjvn-beep/sanglink-macos/releases/download/v3.8.81/SangLink.zip)**
 
 ### Hướng dẫn cài đặt trên macOS
-1. Tải file **`SangLink.zip`** từ đường dẫn trên và giải nén ra **`SangLink.app`**.
-2. Kéo **`SangLink.app`** vào thư mục **`/Applications`** (Ứng dụng).
-3. Nếu macOS báo cảnh báo bảo mật lần đầu mở app, chạy lệnh sau trong **Terminal**:
+1. **Bản DMG (khuyên dùng)**: Mở file **`SangLink-v3.8.81.dmg`** rồi kéo **`SangLink.app`** thả vào thư mục **`Applications`**.
+   - *(Hoặc với bản ZIP: giải nén **`SangLink.zip`** và kéo **`SangLink.app`** vào **`/Applications`**.)*
+2. Nếu macOS báo cảnh báo bảo mật lần đầu mở app, chạy lệnh sau trong **Terminal**:
    ```bash
    xattr -cr /Applications/SangLink.app
    open /Applications/SangLink.app
