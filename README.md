@@ -1,46 +1,52 @@
-# SangLink for macOS (v3.8.81)
+# SangLink for macOS
 
-**SangLink** là ứng dụng quản lý, chiếu màn hình và điều khiển nhiều iPhone qua USB trực tiếp trên **macOS** — nhanh, nhẹ, hỗ trợ **11 ngôn ngữ** và tích hợp sẵn công cụ **Developer Mode + Panda Helper**.
+**SangLink** là phần mềm chuyên dụng giúp quản lý, hiển thị màn hình và điều khiển đồng bộ dàn **iPhone** qua kết nối USB dành riêng cho **macOS (Apple Silicon & Intel)**.
 
-> **SangLink** is a native **macOS** multi-iPhone USB mirroring, control, and management application with **11 languages** and built-in **Developer Mode + Panda Helper** automation.
-
----
-
-## Tải về & Cài đặt / Download & Install
-
-👉 **Chọn bản cài đặt mới nhất (`v3.8.81`):**
-- **macOS (Apple Silicon & Intel)**:
-  - **[Tải SangLink-v3.8.81.dmg (Installer — Khuyên dùng)](https://github.com/ganhhcrjvn-beep/sanglink-macos/releases/download/v3.8.81/SangLink-v3.8.81.dmg)**
-  - **[Tải SangLink.zip (Bản nén ZIP)](https://github.com/ganhhcrjvn-beep/sanglink-macos/releases/download/v3.8.81/SangLink.zip)**
-- **Windows 10 / 11 (64-bit)**:
-  - **[Tải SangLink-Setup-v3.8.81.exe (Bộ cài đặt — Khuyên dùng)](https://github.com/ganhhcrjvn-beep/sanglink-macos/releases/download/v3.8.81/SangLink-Setup-v3.8.81.exe)**
-  - **[Tải SangLink-Windows-v3.8.81.zip (Bản Portable giải nén chạy ngay)](https://github.com/ganhhcrjvn-beep/sanglink-macos/releases/download/v3.8.81/SangLink-Windows-v3.8.81.zip)**
-
-### Hướng dẫn cài đặt trên macOS
-1. **Bản DMG (khuyên dùng)**: Mở file **`SangLink-v3.8.81.dmg`** rồi kéo **`SangLink.app`** thả vào thư mục **`Applications`**.
-   - *(Hoặc với bản ZIP: giải nén **`SangLink.zip`** và kéo **`SangLink.app`** vào **`/Applications`**.)*
-2. Nếu macOS báo cảnh báo bảo mật lần đầu mở app, chạy lệnh sau trong **Terminal**:
-   ```bash
-   xattr -cr /Applications/SangLink.app
-   open /Applications/SangLink.app
-   ```
+- 🌐 **Trang chủ chính thức**: https://sanglink.com
+- 📦 **Phiên bản mới nhất**: `v3.8.81`
+- ⬇️ **Tải bản cài đặt macOS (.dmg)**: [SangLink-v3.8.81.dmg](https://github.com/ganhhcrjvn-beep/sanglink-macos/releases/download/v3.8.81/SangLink-v3.8.81.dmg)
 
 ---
 
-## Tính năng nổi bật / Key Features
+## Tính năng nổi bật
 
-- **Chiếu màn hình & điều khiển đa iPhone qua USB**: Tự động kết nối lại khi cắm cáp, hỗ trợ thao tác đồng bộ nhiều máy.
-- **Đa ngôn ngữ (11 ngôn ngữ)**: Tiếng Việt, English, 简体中文, 繁體中文, Español, 日本語, 한국어, ไทย, Indonesia, Melayu, Русский — đổi trực tiếp trên thanh tiêu đề, tự đồng bộ giao diện Sáng / Tối.
-- **Phiên bản Miễn phí & VIP**:
-  - **Miễn phí (Free)**: Hiển thị và điều khiển tối đa **20 iPhone kết nối đồng thời**.
-  - **VIP**: Không giới hạn số lượng iPhone kết nối + mở khóa công cụ **⚡ Dev Mode + Panda Helper**.
-- **Công cụ ⚡ Dev Mode + Panda Helper (VIP)**:
-  - Kiểm tra nhanh trạng thái Developer Mode & Panda Helper trên toàn bộ iPhone đang cắm USB.
-  - Hỗ trợ 3 chế độ: **Dev Mode + Panda**, **Chỉ bật Dev Mode** (tự động xác nhận bật ON sau khi khởi động lại), hoặc **Chỉ cài Panda Helper** — chọn chạy tất cả hoặc chỉ định từng máy tùy ý.
-- **Thanh toán tự động & kích hoạt tức thì**: Hỗ trợ VietQR MBBank (Tiếng Việt), USDT (BSC BEP20 / TRX TRC20) và Số dư ví.
+- **Tối ưu thuần cho macOS**: Chạy mượt trên cả chip **Apple Silicon (M1/M2/M3/M4)** và **Intel**, kết nối trực tiếp qua dịch vụ USB hệ thống của macOS.
+- **Điều khiển đồng bộ nhiều iPhone**: Hiển thị lưới thiết bị trực quan, thao tác chạm/vuốt/nhập văn bản độ trễ thấp.
+- **Quản lý nhóm & ứng dụng tiện lợi**: Phân nhóm thiết bị, mở nhanh ứng dụng, chụp màn hình và đồng bộ clipboard giữa Mac và iPhone.
+- **Tích hợp tài khoản & kích hoạt VIP tự động**: Đăng nhập, quản lý thiết bị và kích hoạt bản quyền ngay trong ứng dụng.
 
 ---
 
-## Hỗ trợ / Support
+## Yêu cầu hệ thống
 
-- **Telegram**: [@huemai1111](https://t.me/huemai1111)
+- Hệ điều hành: **macOS 12 Monterey trở lên** (hỗ trợ Apple Silicon & Intel).
+- Cáp USB chuẩn / Hub USB có nguồn phụ ổn định khi kết nối nhiều thiết bị.
+
+---
+
+## Hướng dẫn cài đặt trên macOS
+
+1. Tải tệp **[SangLink-v3.8.81.dmg](https://github.com/ganhhcrjvn-beep/sanglink-macos/releases/download/v3.8.81/SangLink-v3.8.81.dmg)** từ mục [Releases](https://github.com/ganhhcrjvn-beep/sanglink-macos/releases/latest).
+2. Mở tệp `.dmg` và kéo biểu tượng **SangLink** vào thư mục **Applications**.
+3. Mở **SangLink** từ Applications (nếu macOS hiển thị cảnh báo lần đầu, chuột phải vào ứng dụng chọn **Open**).
+4. Kết nối iPhone qua cáp USB và bấm **Tin cậy (Trust)** trên thiết bị.
+
+---
+
+## Bảng giá gói VIP
+
+| Gói dịch vụ | Thời hạn | Giá (USDT) |
+| :--- | :--- | :--- |
+| **Gói Tháng** | 1 tháng (30 ngày) | **6 USDT** |
+| **Gói Quý** | 3 tháng (90 ngày) | **15 USDT** |
+| **Gói Năm** | 12 tháng (365 ngày) | **45 USDT** |
+
+> Hỗ trợ thanh toán tự động qua **USDT (BSC BEP20 / TRC20)** và **VietQR** ngay trong ứng dụng hoặc tại https://sanglink.com.
+
+---
+
+## Bản quyền & Hỗ trợ
+
+- Website: https://sanglink.com
+- Điều khoản sử dụng: https://sanglink.com/terms
+- Chính sách bảo mật: https://sanglink.com/privacy
