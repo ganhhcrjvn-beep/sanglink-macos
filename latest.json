@@ -1,0 +1,13 @@
+{
+  "version": "3.10.16",
+  "notes": "SangLink macOS v3.10.16 (Universal arm64 + x86_64): Đồng bộ toàn bộ Hộp công cụ VIP (Kích hoạt & Skip Setup 3uTools, Xóa nhanh, Dev Mode & WDA, Cài đặt thiết bị 12x, Đăng nhập App Store & tải app hàng loạt, Chẩn đoán hệ thống Mac/LAN/Cloud & Tự động cập nhật).",
+  "patch_url": "https://github.com/ganhhcrjvn-beep/sanglink-macos/releases/download/v3.10.16/SangLink.zip",
+  "patch_sha256": "8cb59c8bbec8a0b4d0a74185c2541869755c4b36fcb89700be70cbf39ff032bf",
+  "patch_size_mb": 44.51,
+  "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-macos/releases/download/v3.10.16/SangLink.zip",
+  "full_sha256": "8cb59c8bbec8a0b4d0a74185c2541869755c4b36fcb89700be70cbf39ff032bf",
+  "full_size_mb": 44.51,
+  "dmg_url": "https://github.com/ganhhcrjvn-beep/sanglink-macos/releases/download/v3.10.16/SangLink-v3.10.16.dmg",
+  "dmg_sha256": "47125fc32cc00cc90eba13c69075efa4c36a2e033246ce0202da7442e4fe1ac1",
+  "dmg_size_mb": 51.81
+}
