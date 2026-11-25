@@ -3,9 +3,9 @@
 **SangLink** là phần mềm chuyên dụng giúp quản lý, hiển thị màn hình và điều khiển đồng bộ dàn **iPhone** qua kết nối USB dành riêng cho **macOS (Apple Silicon & Intel)**.
 
 - 🌐 **Trang chủ chính thức**: https://sanglink.com
-- 📦 **Phiên bản mới nhất**: `v3.10.16`
-- ⬇️ **Tải bản cài đặt macOS (.dmg)**: [SangLink-v3.10.16.dmg](https://github.com/ganhhcrjvn-beep/sanglink-macos/releases/download/v3.10.16/SangLink-v3.10.16.dmg)
-- ⬇️ **Tải bản đóng gói trực tiếp (.zip)**: [SangLink.zip](https://github.com/ganhhcrjvn-beep/sanglink-macos/releases/download/v3.10.16/SangLink.zip)
+- 📦 **Phiên bản mới nhất**: `v3.10.17`
+- ⬇️ **Tải bản cài đặt macOS (.dmg)**: [SangLink-v3.10.17.dmg](https://github.com/ganhhcrjvn-beep/sanglink-macos/releases/download/v3.10.17/SangLink-v3.10.17.dmg)
+- ⬇️ **Tải bản đóng gói trực tiếp (.zip)**: [SangLink.zip](https://github.com/ganhhcrjvn-beep/sanglink-macos/releases/download/v3.10.17/SangLink.zip)
 
 ---
 
@@ -27,9 +27,9 @@
 
 ## Hướng dẫn cài đặt trên macOS
 
-1. Tải tệp **[SangLink-v3.10.16.dmg](https://github.com/ganhhcrjvn-beep/sanglink-macos/releases/download/v3.10.16/SangLink-v3.10.16.dmg)** từ mục [Releases](https://github.com/ganhhcrjvn-beep/sanglink-macos/releases/latest).
-2. Mở tệp `.dmg` và kéo biểu tượng **SangLink** vào thư mục **Applications**.
-3. Mở **SangLink** từ Applications (nếu macOS hiển thị cảnh báo lần đầu, chuột phải vào ứng dụng chọn **Open**).
+1. Tải tệp **[SangLink-v3.10.17.dmg](https://github.com/ganhhcrjvn-beep/sanglink-macos/releases/download/v3.10.17/SangLink-v3.10.17.dmg)** từ mục [Releases](https://github.com/ganhhcrjvn-beep/sanglink-macos/releases/latest).
+2. Mở tệp `.dmg` và kéo biểu tượng **SangLink** theo mũi tên vào thư mục **Applications** (không mở trực tiếp trong cửa sổ `.dmg`).
+3. Mở **SangLink** từ Applications. Nếu macOS Sequoia/Sonoma báo *"Apple không thể xác minh..."*, bấm **Xong** → vào **Cài đặt hệ thống (System Settings) → Quyền riêng tư & Bảo mật (Privacy & Security)** → kéo xuống bấm **Vẫn mở (Open Anyway)** (hoặc chạy `xattr -cr /Applications/SangLink.app && open /Applications/SangLink.app`).
 4. Kết nối iPhone qua cáp USB và bấm **Tin cậy (Trust)** trên thiết bị.
 
 ---
